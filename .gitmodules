@@ -1,0 +1,3 @@
+[submodule "SousModule/MonPremierProjetGit"]
+	path = SousModule/MonPremierProjetGit
+	url = https://github.com/Sorasilver25/MonPremierProjetGit.git
