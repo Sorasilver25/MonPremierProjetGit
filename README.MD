@@ -23,6 +23,15 @@ Partie 2 : Utilisation de GitHub
             git push -u permet d'associer sa branche local a une branche distante pour que les prochain push et pull on est plus besoin de specifier le nom des branches
 
 Partie 3 : Collaboration et Workflows
-        Creer des branches permet de decouper des taches en plusieurs sous taches et aussi une tracabilité des fonctionnalités ajoutés
-        De plus, en cas d'abandon d'une fonctionnalité dans le projet, on peut simplement supprimer la branche.
+        1. Créer et gérer des branches
+            Creer des branches permet de decouper des taches en plusieurs sous taches et aussi une tracabilité des fonctionnalités ajoutés
+            De plus, en cas d'abandon d'une fonctionnalité dans le projet, on peut simplement supprimer la branche.
+
+            Git branch permet de lister toute les branches.
+        2. Pull Requests (PR)
+
+Partie 4 : Workflow GitHub Flow vs Git Flow
+        1. GitHub Flow
+        GitHub flow est utilisé dans le cadre de projet simple n'ayant qu'une seule branche principale, git flow lui est utilisé pour des projets plus complexes car en plus des features il prend en compte les bugs, les release, les features, etc.
         -->
+        
