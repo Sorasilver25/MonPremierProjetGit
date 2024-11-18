@@ -1,0 +1,1 @@
+<!-- Git init -> permet d'initier un dépot git en local -->
