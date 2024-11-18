@@ -6,5 +6,9 @@
         
         2. Historique et modifications
             Git add . permet d'ajouter le main.c dans les fichiers a envoyer dans le commit (on peut aussi cliquer sur le + avec l'UI de Vs code)
+            Git log -> Les logs représentent les commits suivi de l'auteur et de la date des commits
+            Git diff permet de voir les nouveaux changements effectués par rapport a l'anciene version de fichier
+
+        3. Utilisation de git ignore
             
         -->
